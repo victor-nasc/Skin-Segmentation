@@ -13,7 +13,7 @@ Human skin color range  :
     0  <= H <= 17
     51 <= S <= 153 
     40 <= V <= 255 
-    https://ieeexplore.ieee.org/document/7005726
+    https://arxiv.org/pdf/1708.02694.pdf
         
         
        
