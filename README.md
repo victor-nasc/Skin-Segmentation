@@ -18,6 +18,6 @@ Human skin color range  :
         
        
 ### Results
-<img src="https://github.com/victor-nasc/Skin-Segmentation/blob/main/images/Figure_0.png" alt="drawing" width="450"/>
-<img src="https://github.com/victor-nasc/Skin-Segmentation/blob/main/images/Figure_3.png" alt="drawing" width="450"/>
-<img src="https://github.com/victor-nasc/Skin-Segmentation/blob/main/images/Figure_5.png" alt="drawing" width="450"/>
+<img src="https://github.com/victor-nasc/Skin-Segmentation/blob/main/images/Figure_0.png" alt="drawing" width="550"/>
+<img src="https://github.com/victor-nasc/Skin-Segmentation/blob/main/images/Figure_3.png" alt="drawing" width="550"/>
+<img src="https://github.com/victor-nasc/Skin-Segmentation/blob/main/images/Figure_5.png" alt="drawing" width="550"/>
